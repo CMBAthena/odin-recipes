@@ -1,0 +1,1 @@
+This project is meant to serve as a test to the knowledge I've acquired regarding web designing. Such knowledge includes the use of headings, links, images, ordered and unordered lists and, of course, the name of the website and the paragraphs in the head and the body, respectivelly.

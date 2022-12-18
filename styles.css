@@ -5,7 +5,15 @@
     text-align: center;
 }
 
-.links {
+#menu {
     text-align: center;
 }
 
+.links {
+    font-size: 18px;
+}
+
+.smolimg {
+    height: auto;
+    width: 220px;
+}

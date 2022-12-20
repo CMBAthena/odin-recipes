@@ -17,3 +17,8 @@
     height: auto;
     width: 220px;
 }
+
+h2 {
+    color: darkgreen;
+    font-size: 28px;
+}

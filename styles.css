@@ -9,10 +9,6 @@
     text-align: center;
 }
 
-.links {
-    font-size: 18px;
-}
-
 .smolimg {
     height: auto;
     width: 220px;
@@ -21,4 +17,10 @@
 h2 {
     color: darkgreen;
     font-size: 28px;
+}
+
+ul,
+ol,
+p {
+    font-size: 18px;
 }
